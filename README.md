@@ -152,4 +152,4 @@ def detect_nature(image_path):
 
 
 # Run
-detect_nature("Today 1.jpeg")
+detect_nature("IMAGE")
